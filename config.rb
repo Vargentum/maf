@@ -29,7 +29,7 @@ javascripts_dir = "js"
 output_style = :compact
 
 # Remove SASS/Compass relative comments.
-# line_comments = false
+line_comments = false
 
 # To enable relative paths to assets via compass helper functions. Uncomment:
 relative_assets = true
